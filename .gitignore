@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 #Idea folder
 .idea/
+.idea/vcs.xml
