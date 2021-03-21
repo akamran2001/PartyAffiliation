@@ -1,2 +1,2 @@
 # PartyAffiliation
- Gnerate graph of pary affiliation in the US based on Gallup Data
+ Generate a graph of party affiliation in the US based on Gallup Data
